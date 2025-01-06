@@ -1,0 +1,28 @@
+digest: bca42fe6
+name: dataset
+profile: '{"num_rows": 8546, "num_elements": 239288}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "Total_Stops", "required": true},
+  {"type": "integer", "name": "Journey_Day", "required": true}, {"type": "integer",
+  "name": "Journey_Month", "required": true}, {"type": "integer", "name": "Dep_Hour",
+  "required": true}, {"type": "integer", "name": "Dep_Min", "required": true}, {"type":
+  "integer", "name": "Arrival_Hour", "required": true}, {"type": "integer", "name":
+  "Arrival_Min", "required": true}, {"type": "long", "name": "Duration_Hours", "required":
+  true}, {"type": "long", "name": "Duration_Mins", "required": true}, {"type": "long",
+  "name": "Airline_Air India", "required": true}, {"type": "long", "name": "Airline_GoAir",
+  "required": true}, {"type": "long", "name": "Airline_IndiGo", "required": true},
+  {"type": "long", "name": "Airline_Jet Airways", "required": true}, {"type": "long",
+  "name": "Airline_Jet Airways Business", "required": true}, {"type": "long", "name":
+  "Airline_Multiple carriers", "required": true}, {"type": "long", "name": "Airline_Multiple
+  carriers Premium economy", "required": true}, {"type": "long", "name": "Airline_SpiceJet",
+  "required": true}, {"type": "long", "name": "Airline_Trujet", "required": true},
+  {"type": "long", "name": "Airline_Vistara", "required": true}, {"type": "long",
+  "name": "Airline_Vistara Premium economy", "required": true}, {"type": "long", "name":
+  "Source_Chennai", "required": true}, {"type": "long", "name": "Source_Delhi", "required":
+  true}, {"type": "long", "name": "Source_Kolkata", "required": true}, {"type": "long",
+  "name": "Source_Mumbai", "required": true}, {"type": "long", "name": "Destination_Cochin",
+  "required": true}, {"type": "long", "name": "Destination_Delhi", "required": true},
+  {"type": "long", "name": "Destination_Hyderabad", "required": true}, {"type": "long",
+  "name": "Destination_Kolkata", "required": true}]}'
+source: '{"tags": {"mlflow.user": "peer1", "mlflow.source.name": "C:\\Users\\peer1\\AppData\\Roaming\\Python\\Python312\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

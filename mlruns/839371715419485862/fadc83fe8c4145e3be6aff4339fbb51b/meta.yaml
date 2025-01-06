@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/839371715419485862/fadc83fe8c4145e3be6aff4339fbb51b/artifacts
+end_time: 1736060168108
+entry_point_name: ''
+experiment_id: '839371715419485862'
+lifecycle_stage: active
+run_id: fadc83fe8c4145e3be6aff4339fbb51b
+run_name: placid-sloth-351
+run_uuid: fadc83fe8c4145e3be6aff4339fbb51b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736060149434
+status: 3
+tags: []
+user_id: peer1

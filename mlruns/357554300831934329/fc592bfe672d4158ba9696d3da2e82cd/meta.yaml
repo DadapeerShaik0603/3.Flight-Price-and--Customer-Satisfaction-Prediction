@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/357554300831934329/fc592bfe672d4158ba9696d3da2e82cd/artifacts
+deleted_time: 1736067303890
+end_time: 1736067120194
+entry_point_name: ''
+experiment_id: '357554300831934329'
+lifecycle_stage: deleted
+run_id: fc592bfe672d4158ba9696d3da2e82cd
+run_name: sedate-mule-727
+run_uuid: fc592bfe672d4158ba9696d3da2e82cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736066926830
+status: 3
+tags: []
+user_id: peer1

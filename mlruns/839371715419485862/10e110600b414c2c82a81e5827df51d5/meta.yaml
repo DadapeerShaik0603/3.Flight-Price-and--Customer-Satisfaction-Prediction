@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/839371715419485862/10e110600b414c2c82a81e5827df51d5/artifacts
+end_time: 1736060082324
+entry_point_name: ''
+experiment_id: '839371715419485862'
+lifecycle_stage: active
+run_id: 10e110600b414c2c82a81e5827df51d5
+run_name: K-Neighbors Regressor Run
+run_uuid: 10e110600b414c2c82a81e5827df51d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736060072058
+status: 3
+tags: []
+user_id: peer1

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/357554300831934329/205b7106e89241b292d4f5a662741138/artifacts
+deleted_time: 1736067303891
+end_time: 1736067120194
+entry_point_name: ''
+experiment_id: '357554300831934329'
+lifecycle_stage: deleted
+run_id: 205b7106e89241b292d4f5a662741138
+run_name: fortunate-turtle-981
+run_uuid: 205b7106e89241b292d4f5a662741138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736066926830
+status: 3
+tags: []
+user_id: peer1

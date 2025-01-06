@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736060771576
+current_stage: None
+description: ''
+last_updated_timestamp: 1736060771576
+name: K-Neighbours Regressor
+run_id: 10e110600b414c2c82a81e5827df51d5
+run_link: ''
+source: mlflow-artifacts:/839371715419485862/10e110600b414c2c82a81e5827df51d5/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/839371715419485862/10e110600b414c2c82a81e5827df51d5/artifacts/model
+user_id: null
+version: 1

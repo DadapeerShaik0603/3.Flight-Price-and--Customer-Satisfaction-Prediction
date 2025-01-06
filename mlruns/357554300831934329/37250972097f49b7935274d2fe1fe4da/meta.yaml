@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/357554300831934329/37250972097f49b7935274d2fe1fe4da/artifacts
+deleted_time: 1736067303894
+end_time: 1736067120194
+entry_point_name: ''
+experiment_id: '357554300831934329'
+lifecycle_stage: deleted
+run_id: 37250972097f49b7935274d2fe1fe4da
+run_name: rogue-wasp-918
+run_uuid: 37250972097f49b7935274d2fe1fe4da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736066926830
+status: 3
+tags: []
+user_id: peer1

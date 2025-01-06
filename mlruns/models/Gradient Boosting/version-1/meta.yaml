@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736060314536
+current_stage: None
+description: ''
+last_updated_timestamp: 1736060314536
+name: Gradient Boosting
+run_id: 867ebc99d74b48aa9c0760bc1e804141
+run_link: ''
+source: mlflow-artifacts:/839371715419485862/867ebc99d74b48aa9c0760bc1e804141/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/839371715419485862/867ebc99d74b48aa9c0760bc1e804141/artifacts/model
+user_id: null
+version: 1

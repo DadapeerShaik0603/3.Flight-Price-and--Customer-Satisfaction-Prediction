@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736067597133
+current_stage: None
+description: ''
+last_updated_timestamp: 1736067597133
+name: K-Nearest Neighbors Classifier
+run_id: b85a3a8027854686beed7c6ccf4d6bed
+run_link: ''
+source: mlflow-artifacts:/357554300831934329/b85a3a8027854686beed7c6ccf4d6bed/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/357554300831934329/b85a3a8027854686beed7c6ccf4d6bed/artifacts/model
+user_id: null
+version: 1

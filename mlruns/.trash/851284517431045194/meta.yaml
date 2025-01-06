@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/851284517431045194
+creation_time: 1736068636511
+experiment_id: '851284517431045194'
+last_update_time: 1736069698256
+lifecycle_stage: deleted
+name: Airline_Prediction_App
+tags: {}

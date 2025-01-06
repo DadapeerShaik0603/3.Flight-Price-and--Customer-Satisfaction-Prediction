@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/839371715419485862/02a857d9c91c4ff1a39ad54cb4218d78/artifacts
+end_time: 1736060552668
+entry_point_name: ''
+experiment_id: '839371715419485862'
+lifecycle_stage: active
+run_id: 02a857d9c91c4ff1a39ad54cb4218d78
+run_name: Random Forest Regressor Hyperparameter Tuning Run
+run_uuid: 02a857d9c91c4ff1a39ad54cb4218d78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736060149434
+status: 3
+tags: []
+user_id: peer1

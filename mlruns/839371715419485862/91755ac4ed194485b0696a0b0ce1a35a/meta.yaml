@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/839371715419485862/91755ac4ed194485b0696a0b0ce1a35a/artifacts
+end_time: 1736060568665
+entry_point_name: ''
+experiment_id: '839371715419485862'
+lifecycle_stage: active
+run_id: 91755ac4ed194485b0696a0b0ce1a35a
+run_name: XGB Regressor Run
+run_uuid: 91755ac4ed194485b0696a0b0ce1a35a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736060105043
+status: 3
+tags: []
+user_id: peer1

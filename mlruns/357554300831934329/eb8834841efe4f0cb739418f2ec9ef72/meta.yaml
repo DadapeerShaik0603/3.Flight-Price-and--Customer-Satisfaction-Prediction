@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/357554300831934329/eb8834841efe4f0cb739418f2ec9ef72/artifacts
+deleted_time: 1736067303888
+end_time: 1736067120194
+entry_point_name: ''
+experiment_id: '357554300831934329'
+lifecycle_stage: deleted
+run_id: eb8834841efe4f0cb739418f2ec9ef72
+run_name: painted-fowl-941
+run_uuid: eb8834841efe4f0cb739418f2ec9ef72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736066926830
+status: 3
+tags: []
+user_id: peer1

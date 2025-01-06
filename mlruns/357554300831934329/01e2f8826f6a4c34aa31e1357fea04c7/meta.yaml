@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/357554300831934329/01e2f8826f6a4c34aa31e1357fea04c7/artifacts
+deleted_time: 1736067303911
+end_time: 1736067120194
+entry_point_name: ''
+experiment_id: '357554300831934329'
+lifecycle_stage: deleted
+run_id: 01e2f8826f6a4c34aa31e1357fea04c7
+run_name: judicious-shad-716
+run_uuid: 01e2f8826f6a4c34aa31e1357fea04c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736066926830
+status: 3
+tags: []
+user_id: peer1

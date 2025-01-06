@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/839371715419485862/5559b825eae1464d85c55509c947809d/artifacts
+end_time: 1736060168108
+entry_point_name: ''
+experiment_id: '839371715419485862'
+lifecycle_stage: active
+run_id: 5559b825eae1464d85c55509c947809d
+run_name: powerful-asp-548
+run_uuid: 5559b825eae1464d85c55509c947809d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736060149434
+status: 3
+tags: []
+user_id: peer1

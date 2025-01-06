@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/839371715419485862/dcfdf8e2007b4fcfa9dcc50438547e73/artifacts
+end_time: 1736060168108
+entry_point_name: ''
+experiment_id: '839371715419485862'
+lifecycle_stage: active
+run_id: dcfdf8e2007b4fcfa9dcc50438547e73
+run_name: casual-rook-419
+run_uuid: dcfdf8e2007b4fcfa9dcc50438547e73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736060149434
+status: 3
+tags: []
+user_id: peer1

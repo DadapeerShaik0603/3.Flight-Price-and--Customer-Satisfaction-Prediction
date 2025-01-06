@@ -1,0 +1,15 @@
+aliases:
+  champion: '1'
+creation_timestamp: 1736067437492
+description: '"Our sophisticated Random Forest Classifier leverages advanced machine
+  learning techniques to predict airline customer satisfaction levels based on detailed
+  user input. By analyzing a range of factors, from inflight wifi service and seat
+  comfort to the ease of online booking, this model provides an accurate and insightful
+  prediction of whether a passenger is satisfied with their flight experience. Whether
+  you''re an airline looking to enhance customer satisfaction or a passenger curious
+  about the determinants of a pleasant flight, our model offers valuable insights
+  that drive better decision-making and improve travel experiences."
+
+  '
+last_updated_timestamp: 1736139195767
+name: Random Forest Classifier

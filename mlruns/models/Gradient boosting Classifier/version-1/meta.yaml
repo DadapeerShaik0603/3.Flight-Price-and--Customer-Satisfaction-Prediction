@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736067573619
+current_stage: None
+description: ''
+last_updated_timestamp: 1736067573619
+name: Gradient boosting Classifier
+run_id: 42cc094d6f2243728ccbe2e12bafe7d1
+run_link: ''
+source: mlflow-artifacts:/357554300831934329/42cc094d6f2243728ccbe2e12bafe7d1/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/357554300831934329/42cc094d6f2243728ccbe2e12bafe7d1/artifacts/model
+user_id: null
+version: 1

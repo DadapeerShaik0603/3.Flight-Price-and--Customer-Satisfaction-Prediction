@@ -1,0 +1,12 @@
+aliases:
+  champion: '1'
+creation_timestamp: 1736060552610
+description: '"Our advanced Random Forest Regressor utilizes state-of-the-art machine
+  learning algorithms to predict flight ticket prices with remarkable accuracy based
+  on comprehensive user input. By considering various factors such as departure and
+  arrival times, number of stops, airline choices, and more, this model provides a
+  precise estimate of flight costs. Ideal for travelers planning their budget and
+  for airlines aiming to optimize pricing strategies, our regressor delivers invaluable
+  insights to ensure informed decision-making and a seamless travel experience."'
+last_updated_timestamp: 1736139307570
+name: Random Forest Regressor
